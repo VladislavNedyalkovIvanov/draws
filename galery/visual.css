@@ -1,0 +1,38 @@
+body{background-color:black} /*цвят на background*/
+.margins{
+        font-family: Century;
+        font-size:xx-large;
+        color:black;
+        background-color: green;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-right: 5px;
+        margin-left: 5px;
+        border-style: solid;
+        border-color: yellow;
+}
+div{
+   background-color:black;
+   border-width: 2px;
+}
+h1{
+    color:white; /*цвят на текст h1*/
+    font-family: Arial;
+    text-align:center;
+} 
+p{
+    color:greenyellow; /* цвят на параграф p */
+    font-family: Century;
+} 
+#big-photo {
+    height: 500px;
+}
+img {
+    height: 500px;
+}
+.height_pictures {
+    height: 500px;
+}
+.weight_pictures {
+    height: 300px;
+}
