@@ -2,14 +2,26 @@ body{background-color:black} /*цвят на background*/
 .margins{
         font-family: Century;
         font-size:xx-large;
-        color:black;
         background-color: green;
+        color:black;
         margin-top: 5px;
         margin-bottom: 5px;
         margin-right: 5px;
         margin-left: 5px;
         border-style: solid;
         border-color: yellow;
+}
+.little_margins{
+    font-family: Century;
+    font-size:small;
+    background-color: green;
+    color:black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-style: solid;
+    border-color: yellow;
 }
 div{
    background-color:black;
