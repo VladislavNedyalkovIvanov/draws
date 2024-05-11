@@ -1,0 +1,23 @@
+body{background-color:black} /*цвят на background*/
+h1{
+    color:white; /*цвят на текст h1*/
+    font-family: Monotype Corsiva;
+    font-size:xx-large;
+    text-align:center;
+} 
+p{
+    color:greenyellow; /* цвят на параграф p */
+    font-family: Century;
+} 
+#big-photo {
+    height: 500px;
+}
+img {
+    height: 500px;
+}
+.height_pictures {
+    height: 500px;
+}
+.weight_pictures {
+    height: 300px;
+}
